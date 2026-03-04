@@ -1,7 +1,7 @@
 # Eventchamp
 
-**Eventchamp** is a discovery platform for finding events, nightlife, and great hangout spots.
-The platform lists **restaurant events, club nights, live music, promotions, and venues** where people can go for entertainment, dates, or social experiences.
+**Eventchamp** is a discovery platform for finding events, restaurant, and great hangout spots.
+The platform lists **restaurant events, live music, promotions, and venues** where people can go for entertainment, dates, or social experiences.
 
 This project uses **Next.js** as the frontend and **WordPress as a headless CMS** to manage venues, events, and other content.
 
