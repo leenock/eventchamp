@@ -58,50 +58,10 @@ Open your browser and navigate to:
 http://localhost:3000
 ```
 
-You can start editing the homepage by modifying:
-
-```
-src/app/page.tsx
-```
-
 The page will automatically update as you save your changes.
 
 ---
 
-## Environment Variables
-
-Create a `.env.local` file and add your WordPress API endpoint:
-
-```
-NEXT_PUBLIC_WORDPRESS_API=http://your-wordpress-site.local/wp-json/wp/v2
-```
-
-Example:
-
-```
-NEXT_PUBLIC_WORDPRESS_API=http://eventchamp.local/wp-json/wp/v2
-```
-
----
-
-## Project Structure
-
-```
-src
- ├── app
- │   ├── events
- │   ├── venues
- │   └── page.tsx
- │
- ├── components
- │   ├── EventCard.tsx
- │   └── VenueCard.tsx
- │
- └── lib
-     └── wordpress.ts
-```
-
----
 
 ## Future Features
 
